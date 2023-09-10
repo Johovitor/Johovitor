@@ -14,7 +14,7 @@
 I'm a Full-Stack developer 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johovitor&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Johovitor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johovitor&layout=compact&theme=buefy&hide_border=true" /></a>
   <br />
   <br />
 </div>
