@@ -17,7 +17,11 @@ Embora meu enfoque principal seja no back end, também tenho noções em linguag
 
 Sou uma pessoa pró-ativa, motivada e com grande disposição para aprender e evoluir. Acredito que a tecnologia é um campo dinâmico, e estou comprometido em manter-me atualizado com as últimas tendências e melhores práticas. Estou ansioso para colaborar em projetos desafiadores, contribuir com minha experiência e continuar crescendo como desenvolvedor.
 
-HTML,CSS, React,Node.js,JavaScript
+HTML
+CSS
+React
+Node.js
+JavaScript
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Johovitor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johovitor&layout=compact&theme=buefy&hide_border=true" /></a>
